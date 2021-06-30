@@ -1,0 +1,23 @@
+h1,
+  h2,
+  h3 {
+  font-family: 'GABRIOLA', italic;
+  color: blue;
+}
+  wrap {
+    width:200px;
+    height:200px;
+    border: 1px solid red; 
+    background: #f0f0f0; 
+    position:fixed;
+    right:0;
+ bottom:0;}
+li {
+    line-height: 3;
+    text-indent: 8%;
+ font-family: 'GABRIOLA', sans-serif;
+  color: maroon;
+}
+
+m:first-letter {color:red; font-size: 200%; border: 3px solid;}
+b:first-letter {color:red; font-size: 200%; border: 3px solid;}
